@@ -1,0 +1,33 @@
+body {
+    background-color: coral !important;
+    color: black;
+}
+
+h1 {
+    padding-left: 75px;
+}
+
+.navlist {
+    display: inline;
+    padding-right: 30px;
+}
+
+#top img {
+    width: 300px;  
+    height: auto;  
+    text-align: center;  
+    padding: 15px;  
+    border: 3px black;  
+}
+
+a:link{
+    color: blue;
+}
+    
+a:visited{
+    color: purple;
+}
+
+#aboutme{
+    height: 1000px
+}
